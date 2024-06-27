@@ -1,33 +1,6 @@
-# blockly-for-robot
+# Project Description
 
-## Project setup
-```
-yarn install
-```
+This is a graphical modular programming platform based on Google Blockly. The code is divided into frontend and backend. The frontend requires additional installation of Node modules dependencies to run.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+Additionally, this project requires pre-installation of npm, Node, and Yarn environments.
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-```
-NULL
-```
-### IP Modification
-```
---> vue.config.js <--
-Command + Shift + F : 192.168.xxx.x
-Defalut port : 8080
-```
-See [Configuration Reference](https://cli.vuejs.org/config/).
